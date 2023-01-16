@@ -1,3 +1,3 @@
-module github.com/mamonthee/fss.git
+module github.com/mamonthee/fss
 
 go 1.19
